@@ -174,7 +174,7 @@ static int __init Module_init(void)
 
     gpio_set_value(PIN_OUT,1);
 
-    printk("GPIO pin %d nitialized as output\n",PIN_OUT);
+    printk("GPIO pin %d initialized as output\n",PIN_OUT);
 
 
     // initialize pin 3 as input
@@ -194,7 +194,7 @@ static int __init Module_init(void)
     }
 
 
-    printk("GPIO pin %d nitialized as input\n",0); 
+    printk("GPIO pin %d initialized as input\n",0); 
 
 
 
