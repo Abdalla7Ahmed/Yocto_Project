@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/6-gpio_driver/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/abdallah/Device_Drivers/6-gpio_driver/Module.symvers -T /home/abdallah/Device_Drivers/6-gpio_driver/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/9-Interrupt/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/abdallah/Device_Drivers/9-Interrupt/Module.symvers -T /home/abdallah/Device_Drivers/9-Interrupt/modules.order -i Module.symvers -e 

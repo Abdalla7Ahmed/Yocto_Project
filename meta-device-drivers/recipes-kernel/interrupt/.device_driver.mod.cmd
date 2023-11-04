@@ -1,0 +1,1 @@
+cmd_/home/abdallah/Device_Drivers/9-Interrupt/device_driver.mod := printf '%s\n'   device_driver.o | awk '!x[$$0]++ { print("/home/abdallah/Device_Drivers/9-Interrupt/"$$0) }' > /home/abdallah/Device_Drivers/9-Interrupt/device_driver.mod
